@@ -1,4 +1,5 @@
 ### Hello World, I'm Manish Verma 👋
+[![Manish-Verma's GitHub | Stats](https://stats.quine.sh/Manish-Verma/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Manish-Verma)
 
 <!--
 **Manish12-verma/Manish12-verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
