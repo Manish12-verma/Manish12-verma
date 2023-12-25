@@ -23,7 +23,7 @@
 
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
-| BTech (IT) | <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Galgotias_University_logo_seal.jpg" width="30" height="30"/> | Galgotias College of Engineering and Technology (GCET)  | 7.69 CGPA | Nov 21 - Current |
+| B.Tech (IT) | <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Galgotias_University_logo_seal.jpg" width="30" height="30"/> | Galgotias College of Engineering and Technology (GCET)  | 7.69 CGPA | Nov 21 - Current |
 | 12 (PCM) | <img src="https://image.winudf.com/v2/image/Y3Npcy5zdHhhdmllcmJlbHRoYXJhX3NjcmVlbl8wXzE1MzY1MTEwNDZfMDIx/screen-0.webp?fakeurl=1&type=.webp" width="30" height="30"/> | St. Xavier's School | 83% | 2020 |
 
 <br>
