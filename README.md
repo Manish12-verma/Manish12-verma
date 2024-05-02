@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="[[https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://www.freepik.com/free-vector/code-typing-concept-illustration_9712737.htm#query=coding%20png&position=1&from_view=keyword&track=ais&uuid=0b322739-6112-4add-bd39-1d383607f2b3)](https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-2937.jpg?w=740&t=st=1714634088~exp=1714634688~hmac=994a566e5259cbdcc61e3e02f79a71cba30b833f2c931185ea89ad6f14651e5b)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish12-verma&label=Profile%20views&color=0e75b6&style=flat" alt="manish12-verma" /> </p>
 
 - 🌱 I’m currently learning **React & DSA**
