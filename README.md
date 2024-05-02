@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React & DSA**
 
-- 👨‍💻 All of my projects are available at [https://manish12-verma.github.io/myportfolio.github.io/](https://manish12-verma.github.io/myportfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://portfolio-manish-verma.vercel.app/](https://portfolio-manish-verma.vercel.app/)
 
 - 📫 How to reach me **manish120903@gmail.com**
 
