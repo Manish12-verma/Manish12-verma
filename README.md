@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manish Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi  &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;, I'm Manish Verma</h1>
+<h3 align="center">A passionate  developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish12-verma&label=Profile%20views&color=0e75b6&style=flat" alt="manish12-verma" /> </p>
 
 - 🌱 I’m currently learning **React & DSA**
@@ -34,3 +34,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish12-verma&show_icons=true&locale=en" alt="manish12-verma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish12-verma&" alt="manish12-verma" /></p>
+
+  #
+
+ <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
+  #
+  
+  ![image](https://user-images.githubusercontent.com/73706697/123554226-9df6cf80-d79c-11eb-90f9-fc1d2a28d8c4.png)
+  
