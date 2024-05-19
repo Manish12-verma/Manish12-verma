@@ -26,7 +26,7 @@
 
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
-| B.Tech (IT) | <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Galgotias_University_logo_seal.jpg" width="30" height="30"/> | Galgotias College of Engineering and Technology (GCET)  | 7.8 CGPA | Nov 21 - Aug 2025 |
+| B.Tech (IT) | <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Galgotias_University_logo_seal.jpg" width="30" height="30"/> | Galgotias College of Engineering and Technology (GCET)  | 7.78 CGPA | Nov 21 - Aug 2025 |
 | 12th (PCM) | <img src="https://image.winudf.com/v2/image/Y3Npcy5zdHhhdmllcmJlbHRoYXJhX3NjcmVlbl8wXzE1MzY1MTEwNDZfMDIx/screen-0.webp?fakeurl=1&type=.webp" width="30" height="30"/> | St. Xavier's School | 83% | 2020 |
 | 10th       | <img src="https://image.winudf.com/v2/image/Y3Npcy5zdHhhdmllcmJlbHRoYXJhX3NjcmVlbl8wXzE1MzY1MTEwNDZfMDIx/screen-0.webp?fakeurl=1&type=.webp" width="30" height="30"/> | St. Xavier's School | 75.6% | 2018 |
 <h3 align="left">Languages and Tools:</h3>
