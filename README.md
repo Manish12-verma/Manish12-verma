@@ -20,6 +20,9 @@
 <a href="https://dribbble.com/https://dribbble.com/manish-12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/manish-12" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manish120903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manish120903" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/manish_verma/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/manish_verma/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/manish120903/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" />
+</a>
 <a href="https://discord.gg/bA694q6K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bA694q6K" height="30" width="40" /></a>
 </p>
 
