@@ -5,7 +5,7 @@
 
 - 🌱 MERN stack
 
-- 👨‍💻 All of my projects are available at [https://portfolio-manish-verma.vercel.app/](https://portfolio-manish-verma.vercel.app/)
+- 👨‍💻 Checkout My [Portfolio](https://manishs-portfolio.vercel.app/)
 
 - 📫 How to reach me **manish120903@gmail.com**
 
