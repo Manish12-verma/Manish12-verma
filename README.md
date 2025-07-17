@@ -1,6 +1,5 @@
 <h1 align="center">Hi  &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;, I'm Manish Verma</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" width="250" height="300" src="anime.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish12-verma&label=Profile%20views&color=0e75b6&style=flat" alt="manish12-verma" /> </p>
 
 - 🌱 MERN stack
